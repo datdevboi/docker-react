@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to Dockers</h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          I was changed into
         </p>
       </div>
     );
